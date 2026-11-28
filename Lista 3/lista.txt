@@ -1,0 +1,16 @@
+1.Contador automático	
+Solicite um número positivo N e apresente todos os números de 1 até N.
+2.Tabuada personalizada	
+Solicite um número e apresente sua tabuada de 1 até 10.
+3.Números ímpares	
+Apresente todos os números ímpares de 1 até 99.
+4.Elevador	
+Simule um elevador descendo do 15º andar até o térreo, apresentando cada andar.
+5.Controle de temperatura	
+Solicite as temperaturas registradas durante sete dias. Informe a maior, a menor e a média das temperaturas.
+6.Sequência de Fibonacci	
+Apresente os primeiros 20 números da sequência de Fibonacci, começando por 0 e 1. Utilize apenas variáveis simples.
+7.Pirâmide de asteriscos	
+Solicite a altura de uma pirâmide e desenhe-a utilizando asteriscos. Utilize dois laços for, um dentro do outro.
+8.Simulador de financiamento	
+Solicite o valor de uma dívida e a quantidade de meses. Simule pagamentos mensais com amortização fixa e juros de 1% sobre o saldo devedor de cada mês. Apresente o valor de cada parcela e o total pago.
