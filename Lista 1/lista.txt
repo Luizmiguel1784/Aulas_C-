@@ -1,0 +1,14 @@
+a) Faça um programa que receba 3 notas, calcule a média destas notas e apresente:
+	“Aprovado” quando >= 5 e “Reprovado” quando < 5;
+b) Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salario, sabendo-se que:
+Salario < R$ 1000,00 aumento de 25%.
+Salario >= R$ 1000,00 e < R$ 2000,00 aumento de 15%.
+Salario >= R$ 2000,00 aumento de 10%.
+c) Faça um programa que receba o mês em número e apresente-o por extenso. 
+d) Elaborar um programa que efetue a leitura de um determinado valor, e efetue a sua apresentação, caso o valor não seja maior que três.
+e) Efetuar a leitura de cinco números inteiros identificando o maior e o menor deles.
+f) Ler dois valores numéricos inteiros e apresentar o resultado da diferença do maior pelo menor.
+
+g) Efetuar a leitura de três valores (variáveis A, B e C) e apresentá-los dispostos em ordem crescente.
+h) Elaborar um programa que efetue a leitura de um valor que esteja entre a faixa de 1 a 9. Após a leitura do valor fornecido pelo usuário o programa deverá indicar uma de duas mensagens: “O valor está na faixa permitida”, caso o valor esteja nesta faixa, ou a mensagem “O valor está fora da faixa permitida” caso o usuário forneça valores menores que 1 ou maiores que 9.
+ 
