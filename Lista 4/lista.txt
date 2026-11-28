@@ -1,0 +1,48 @@
+
+1. Crie um programa que:
+ 
+Leia 8 números inteiros e armazene em um vetor.
+
+Encontre o maior número.
+
+Encontre o menor número.
+
+Exiba os dois resultados.
+
+Números pares e ímpares
+
+2. Crie um programa que:
+
+Leia 10 números inteiros.
+
+Armazene os números em um vetor.
+
+Conte quantos números são pares.
+
+Conte quantos números são ímpares.
+
+Exiba as duas quantidades.
+
+3. Vetor invertido
+
+Crie um programa que:
+
+Leia 10 números inteiros e armazene em um vetor.
+
+Crie um segundo vetor com os mesmos elementos, mas na ordem inversa.
+
+Exiba os dois vetores.
+
+4. Busca de um elemento
+
+Crie um programa que:
+
+Leia 10 números inteiros e armazene em um vetor.
+
+Solicite ao usuário um número para pesquisar.
+
+Verifique se esse número existe no vetor.
+
+Caso exista, informe todas as posições em que ele aparece.
+
+Caso não exista, exiba uma mensagem informando que o número não foi encontrado.
